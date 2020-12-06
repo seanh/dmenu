@@ -13,3 +13,6 @@ authy
 deja-dup
 bitwarden
 zoom
+synaptic
+systemctl suspend
+xset dpms force off
