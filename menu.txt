@@ -1,0 +1,15 @@
+gedit ~/.dmenu/menu.txt
+st
+gvim
+gedit
+google-chrome
+chromium
+firefox
+nautilus
+nautilus ~/Desktop
+slack
+gnome-calculator
+authy
+deja-dup
+bitwarden
+zoom
