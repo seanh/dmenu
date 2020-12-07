@@ -1,5 +1,9 @@
-My [dmenu](https://tools.suckless.org/dmenu/) Scripts
-=====================================================
+My dmenu Scripts
+================
+
+[dmenu](https://tools.suckless.org/dmenu/) themed to fit in with GNOME.
+Menu items are read from a [`menu.txt` file](menu.txt) and the selected
+menu item is executed as a command.
 
 Installation
 ------------
