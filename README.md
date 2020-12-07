@@ -1,7 +1,7 @@
 My dmenu Scripts
 ================
 
-[dmenu](https://tools.suckless.org/dmenu/) themed to fit in with GNOME.
+[dmenu](https://tools.suckless.org/dmenu/) themed to fit in with GNOME's top bar.
 Menu items are read from a [`menu.txt` file](menu.txt) and the selected
 menu item is executed as a command.
 
