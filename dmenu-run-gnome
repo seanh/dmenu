@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-~/.dmenu/dmenu-run -nb '#000000' -nf '#b6caca' -sb '#4a90d9' -sf '#baf6fb' -f -i -fn "Source Code Pro:pixelsize=20"
+~/.dmenu/dmenu-run -nb '#ffffff' -nf '#111111' -sb '#4a90d9' -sf '#baf6fb' -f -i -fn "Source Code Pro:pixelsize=19"

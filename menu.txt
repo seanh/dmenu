@@ -1,18 +1,18 @@
-gedit ~/.dmenu/menu.txt
-st
+gnome-terminal
 gvim
-gedit
 google-chrome
-chromium
 firefox
 nautilus
 nautilus ~/Desktop
 slack
+gedit
 gnome-calculator
 authy
 deja-dup
 bitwarden
 zoom
+peek
 synaptic
-systemctl suspend
-xset dpms force off
+systemctl suspend  # Suspend the computer.
+xset dpms force off  # Turn off the screen.
+gvim ~/.dmenu/menu.txt  # Edit this menu.
